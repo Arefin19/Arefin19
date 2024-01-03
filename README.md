@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin19&label=Profile%20views&color=0e75b6&style=flat" alt="arefin19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arefin19" alt="arefin19" /></a> </p>
+
 
 - 🔭 I’m currently working on [metro-rail-smart-card-system](https://github.com/Arefin19/metro-rail-smart-card-system)
 
