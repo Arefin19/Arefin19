@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/priontoarefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priontoarefin" height="30" width="40" /></a>
 <a href="https://fb.com/arefine.prio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arefine.prio" height="30" width="40" /></a>
 <a href="https://instagram.com/prionto_arefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prionto_arefin" height="30" width="40" /></a>
-<a href="www.youtube.com/@priontoarefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgh4tdr2c6faxhdlheghg_q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@priontoarefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgh4tdr2c6faxhdlheghg_q" height="30" width="40" /></a>
 <a href="https://discord.gg/priontoarefin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="priontoarefin" height="30" width="40" /></a>
 </p>
 
